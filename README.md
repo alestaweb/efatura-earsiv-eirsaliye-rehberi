@@ -50,6 +50,21 @@ Bu başlıklar birbirinin yerine kullanılıyor ve karışıklığın çoğu bur
 | **Senaryo** | Faturanın hangi kurallara tabi olduğunu belirleyen tip bilgisi (TEMEL, TİCARİ, İHRACAT vb.). |
 | **Portal** | İdare'nin sağladığı, belgelerin elle girildiği web arayüzü. |
 
+**Yakın terimler (kâğıt ve muhasebe belgeleri).** Elektronik belgelerle sık karıştırılan diğer belgeler:
+
+| Terim | Ne demek |
+|---|---|
+| **Proforma fatura** | Satıştan önce alıcıya fiyat, miktar, teslim ve ödeme koşullarını bildiren teklif belgesi. Vergi Usul Kanunu anlamında fatura değildir, vergi doğurmaz; satış gerçekleşince ayrıca fatura düzenlenir. |
+| **İrsaliyeli fatura** | Sevk irsaliyesi ile faturanın tek belgede birleştirilmiş hâli (VUK md. 230). Her iki belgenin taşıması gereken bilgileri içerir; düzenlendiğinde ayrıca irsaliye gerekmez. |
+| **ÖKC fişi (yazar kasa fişi)** | Ödeme kaydedici cihazdan çıkan perakende satış belgesi (VUK md. 233). Fatura düzenleme sınırının altındaki perakende satışlarda fatura yerine geçer; yeni nesil ÖKC'ler fişi elektronik olarak da kaydeder. |
+| **Müstahsil makbuzu** | Defter tutan alıcıların, defter tutmayan çiftçiden yaptıkları ürün alımlarında düzenlediği belge (VUK md. 235). Elektronik hâli e-MM'dir. |
+| **Kasa tahsil fişi** | Kasaya para girişinde düzenlenen iç muhasebe belgesi; 100 Kasa hesabı borçlanır. |
+| **Kasa tediye fişi** | Kasadan para çıkışında düzenlenen iç muhasebe belgesi; 100 Kasa hesabı alacaklanır. |
+| **Ücret bordrosu** | Çalışana ödenen brüt ücreti, yasal kesintileri ve net ücreti gösteren belge (VUK md. 238). |
+| **Ücret hesap pusulası** | Ücret ödemesinde işçiye verilen, ödemenin tarihini, süresini ve hesap ayrıntısını gösteren belge (4857 sayılı İş Kanunu md. 37). |
+
+Bu bölüm [#1](https://github.com/alestaweb/efatura-earsiv-eirsaliye-rehberi/issues/1) numaralı öneriyle eklendi.
+
 **En kritik ayrım:** e-Fatura ile e-Arşiv arasındaki seçim sizin tercihiniz değil,
 **alıcının durumu** tarafından belirlenir. Yazılım bu kararı her satışta yeniden vermek
 zorundadır.
