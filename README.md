@@ -11,6 +11,8 @@ sonrasını anlatıyor: **geçtiniz, peki yazılımınızın içinde ne değişi
 > hadler her yıl güncellenir. Uygulamadan önce Kaynaklar bölümündeki resmî metinlerden
 > teyit edin veya mali müşavirinize danışın.
 
+Son güncelleme: 2026-11-18
+
 ---
 
 ## İçindekiler
@@ -28,6 +30,7 @@ sonrasını anlatıyor: **geçtiniz, peki yazılımınızın içinde ne değişi
 11. [Sık yapılan hatalar](#11-sık-yapılan-hatalar)
 12. [Değerlendirme kontrol listesi](#12-değerlendirme-kontrol-listesi)
 13. [Kaynaklar](#13-kaynaklar)
+14. [Makaleler](#makaleler)
 
 ---
 
@@ -244,6 +247,11 @@ her vaka elle çözülür ve hata üretir.
 ayrı bir kayıt** olarak tutun. Bir siparişin birden fazla belgesi olabilir: asıl fatura,
 iade faturası, kısmi iade, düzeltme. Tek alanlı model bunların hiçbirini taşıyamaz.
 
+**Süreler (GİB kılavuzları, Ocak 2025):** iptal talebi e-Arşiv faturada da e-Faturada da
+faturanın **alıcıya iletildiği tarihten itibaren 8 gün** içinde açılabilir. Sisteme bildirilen
+itiraz talebinin, belgenin ait olduğu ayı izleyen ayın 15. günü sonuna kadar kabul edilmesi
+gerekir. Soru-cevap biçiminde ayrıntı: [e-Arşiv ve e-Faturada iptal, itiraz ve iade faturası: soru-cevap](docs/earsiv-ve-efaturada-iptal-itiraz-iade-soru-cevap.md)
+
 ---
 
 ## 9. e-İrsaliye ve sevkiyat
@@ -347,10 +355,20 @@ Yalnızca resmî kaynaklar. Rakamlar ve tarihler için tek geçerli referans bun
 
 - **Gelir İdaresi Başkanlığı e-Belge portalı** — https://ebelge.gib.gov.tr
 - **e-Fatura mevzuatı (tebliğler, değişiklikleri işlenmiş hâlleriyle)** — https://ebelge.gib.gov.tr/efaturamevzuat.html
+- **e-Arşiv Uygulamaları İptal, İhtar/İtiraz Bildirim Kılavuzu** — https://ebelge.gib.gov.tr/dosyalar/kilavuzlar/e-Arsiv_Uygulamalari_Iptal_Ihtar_Itiraz_Bildirim_Kilavuzu_V.1.1.pdf
+- **e-Fatura İptal, İhtar/İtiraz Bildirim Kılavuzu** — https://ebelge.gib.gov.tr/dosyalar/kilavuzlar/e-Fatura_Iptal_Ihtar_Itiraz_Bildirim_Kilavuzu_V_1.2.pdf
 - **Gelir İdaresi Başkanlığı** — https://www.gib.gov.tr
 - **Mevzuat Bilgi Sistemi** — https://www.mevzuat.gov.tr
 - **Ticaret Bakanlığı e-Ticaret Bilgi Sistemi (ETBİS)** — https://www.eticaret.gov.tr
 - **Kamu Sertifikasyon Merkezi (mali mühür)** — https://kamusm.bkk.com.tr
+
+---
+
+## Makaleler
+
+Konuları ayrıntılı ve soru-cevap biçiminde işleyen yazılar:
+
+- [e-Arşiv ve e-Faturada iptal, itiraz ve iade faturası: soru-cevap](docs/earsiv-ve-efaturada-iptal-itiraz-iade-soru-cevap.md)
 
 ---
 
